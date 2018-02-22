@@ -1,4 +1,4 @@
-package com.tutorialspoint;
+package com.restapi;
 
 import java.io.Serializable;  
 import javax.xml.bind.annotation.XmlElement; 

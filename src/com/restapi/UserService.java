@@ -1,4 +1,4 @@
-package com.tutorialspoint;
+package com.restapi;
 
 import java.util.List; 
 import javax.ws.rs.GET; 
